@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Technical Lead | Software Engineering | Cloud, Data, and Applied GenAI
 
 Atlanta, GA  \
