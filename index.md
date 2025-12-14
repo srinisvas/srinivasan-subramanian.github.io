@@ -1,6 +1,6 @@
 # Srinivasan Subramanian
 
-**Technical Lead | Full-Stack Engineering | Cloud, Data, and Applied GenAI**
+**Technical Lead | Software Engineering | Cloud, Data, and Applied GenAI**
 
 Atlanta, GA  \
 [LinkedIn](https://www.linkedin.com/in/srinivasan-subramanian-43b951b9/) · [GitHub](https://srinisvas.github.io/) · subramaniansrinivasan92@gmail.com
@@ -31,7 +31,7 @@ I have led cross-functional teams across geographies, modernized legacy platform
 
 ### Data Platforms & Messaging
 - BigQuery, Cloud SQL, PostgreSQL, Oracle, DB2
-- Kafka, Google Pub/Sub, Message Queues
+- Kafka, Google Pub/Sub, Messaging Queues
 - Event-driven and distributed systems
 
 ### Machine Learning & GenAI
@@ -111,25 +111,13 @@ GPA: 3.2
 
 ---
 
-## Certifications
-
-- Google Cloud Certified Professional Cloud Architect
-- Google Cloud Certified Associate Cloud Engineer
-- AWS Certified Solutions Architect – Associate
-- Google Cloud Generative AI Leader
-- Machine Learning Specialization – Stanford University & DeepLearning.AI
-- Architecting with Google Cloud Platform
-- Data Engineering, Big Data, and Machine Learning on GCP
-- SRE and DevOps Engineer with Google Cloud
-
----
-
 ## Awards
 
 - The Home Depot – Cyber Bravo Award
 - Tata Consultancy Services – Star of the Quarter
 - Tata Consultancy Services – Contextual Master Award
 - Tata Consultancy Services – Service & Commitment Award
+- Tata Consultancy Services – Applause Award
 
 ---
 
