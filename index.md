@@ -1,6 +1,4 @@
-# Srinivasan Subramanian
-
-**Technical Lead | Software Engineering | Cloud, Data, and Applied GenAI**
+Technical Lead | Software Engineering | Cloud, Data, and Applied GenAI
 
 Atlanta, GA  \
 [LinkedIn](https://www.linkedin.com/in/srinivasan-subramanian-43b951b9/) · [GitHub](https://srinisvas.github.io/) · subramaniansrinivasan92@gmail.com
